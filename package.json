@@ -1,0 +1,14 @@
+{
+  "name": "rm-credit-solutions-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RM Credit Solutions (Pty) Ltd — loan application backend and web app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
